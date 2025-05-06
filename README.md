@@ -1,3 +1,5 @@
+<img class="logo" src="https://github.com/wearemiew/.github/raw/main/static/miew-banner.png" alt="Miew Banner"/>
+
 # .NET Minimal API Starter
 
 A clean, modular .NET 9.0 Minimal API starter template following Domain-Driven Design (DDD) principles and clean architecture patterns.
