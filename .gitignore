@@ -1,0 +1,87 @@
+## .NET Core
+bin/
+obj/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+# Rider
+.idea/
+
+# VS Code
+.vscode/
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS for Mac
+.vscode/
+*.userprefs
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+
+# .NET Core
+*.dbmdl
+*.pdb
+*.cache
+*.log
+
+# Publish
+*.publish.xml
+.publish/
+
+# Global JetBrains Rider settings
+.idea/
+*.sln.iml
+
+# NuGet
+*.nupkg
+*.snupkg
+.nuget/
+packages/
+# Uncomment if using PackageReference
+# /packages
+
+# Microsoft Azure Web Apps
+site/wwwroot/
+
+# Logs
+*.log
+*.tlog
+*.vshost.*
+
+# Test results
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+
+# Others
+*.vspscc
+*.vssscc
+.vs/

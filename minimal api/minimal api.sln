@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "minimal api", "minimal api\minimal api.csproj", "{2C3F0E45-5232-4F26-B63A-436B021F7994}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A7830D01-E560-4AE5-B059-D10C364B8389}"
+	ProjectSection(SolutionItems) = preProject
+		compose.yaml = compose.yaml
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "minimal api.tests", "minimal api.tests\minimal api.tests.csproj", "{FEBD02A7-6D83-4479-BB61-1C2A4C4785DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C3F0E45-5232-4F26-B63A-436B021F7994}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C3F0E45-5232-4F26-B63A-436B021F7994}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C3F0E45-5232-4F26-B63A-436B021F7994}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C3F0E45-5232-4F26-B63A-436B021F7994}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEBD02A7-6D83-4479-BB61-1C2A4C4785DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEBD02A7-6D83-4479-BB61-1C2A4C4785DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEBD02A7-6D83-4479-BB61-1C2A4C4785DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEBD02A7-6D83-4479-BB61-1C2A4C4785DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
